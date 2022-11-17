@@ -15,9 +15,9 @@
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/mewcoder/vtv-starter/generate)
+[使模板创建仓库](https://github.com/mewcoder/vtv-starter/generate)
 
-### 克隆到本地
+### 下载到本地
 
 ```bash
 npx degit mewcoder/vtv-starter my-vtv-app
