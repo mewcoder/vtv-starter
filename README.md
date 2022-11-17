@@ -24,3 +24,9 @@ npx degit mewcoder/vtv-starter my-vtv-app
 cd my-vtv-app
 pnpm i
 ```
+
+如果没必要用 TS，可以用 JS 版本
+
+```bash
+npx degit mewcoder/vtv-starter#js my-vtv-app
+```
