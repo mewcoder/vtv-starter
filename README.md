@@ -1,21 +1,21 @@
 <p align='center'>
-  <img src='./src/assets/logo.svg' width='150'/>
-  <h1 align='center'>vtv-starter</h1>
+  <img src='./src/assets/logo.svg' width='100'/>
+  <h1 align='center'>VTV-Starter</h1>
 </p>
-<br>
 
 ## 特性
 
-- ⚡️ Vue3.2, Vite3, TypeScript
+- ⚡️ Vue 3.2, Vite 3, TypeScript
 - 📦 pnpm
 - ✅ Vitest
-- 🗂 Vue-Router4
+- 🧭 Vue-Router 4
+- 🎨 ESLint + Prettier
 
 ## 使用
 
 ### GitHub 模板
 
-[使用这个模板创建仓库](https://github.com/mewcoder/vtv-starter/generate).
+[使用这个模板创建仓库](https://github.com/mewcoder/vtv-starter/generate)
 
 ### 克隆到本地
 
