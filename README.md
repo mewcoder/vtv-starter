@@ -1,26 +1,41 @@
-<p align='center'>
-  <img src='./src/assets/logo.svg' width='150'/>
-  <h1 align='center'>vtv-starter</h1>
-</p>
-<br>
+# vtv-js
 
-## 特性
+This template should help get you started developing with Vue 3 in Vite.
 
-- ⚡️ Vue3.2, Vite3, TypeScript
-- 📦 pnpm
-- ✅ Vitest
-- 🗂 Vue-Router4
+## Recommended IDE Setup
 
-## 使用
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-### GitHub 模板
+## Customize configuration
 
-[使用这个模板创建仓库](https://github.com/mewcoder/vtv-starter/generate).
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-### 克隆到本地
+## Project Setup
 
-```bash
-npx degit mewcoder/vtv-starter my-vtv-app
-cd my-vtv-app
-pnpm i
+```sh
+pnpm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+pnpm dev
+```
+
+### Compile and Minify for Production
+
+```sh
+pnpm build
+```
+
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+pnpm test:unit
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+pnpm lint
 ```
